@@ -31,7 +31,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
@@ -57,4 +56,10 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+	  <repository>
+	    <id>test1</id>
+	    <url>http://54.254.193.80:8081/nexus/content/repositories/test1</url>
+	  </repository>
+	</distributionManagement>
 </project>
