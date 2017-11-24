@@ -58,8 +58,8 @@
 
 	<distributionManagement>
 	  <repository>
-	    <id>test1</id>
-	    <url>http://54.254.193.80:8081/nexus/content/repositories/test1</url>
+	    <id>MYREPO</id>
+	    <url>http://54.254.193.80:8081/nexus/content/repositories/MYREPO</url>
 	  </repository>
 	</distributionManagement>
 </project>
