@@ -21,8 +21,13 @@
 	<packaging>jar</packaging>
 
 	<name>JaCoCo Maven plug-in example for Java project</name>
-	<url>http://www.eclemma.org/jacoco</url>
-
+	<!-- <url>http://www.eclemma.org/jacoco</url> -->
+	<url>http://maven.apache.org</url>
+  	
+	<properties>
+    		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  	</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
