@@ -17,8 +17,8 @@
 
 	<groupId>org.jacoco</groupId>
 	<artifactId>org.jacoco.examples.maven.java</artifactId>
-	<version>1.1-RELEASE</version>
-	<packaging>war</packaging>
+	<version>1.0-RELEASE</version>
+	<packaging>jar</packaging>
 
 	<name>Example from Anuj for Java project</name>
 	<!-- <url>http://www.eclemma.org/jacoco</url> -->
